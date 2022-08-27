@@ -29,6 +29,7 @@ set(msg_files
   "msg/AprilTagDetection.msg"
   "msg/AprilTagDetectionArray.msg"
   "msg/AprilTagsWithInfos.msg"
+  "msg/BatteryHealth.msg"
   "msg/BoolStamped.msg"
   "msg/ButtonEvent.msg"
   "msg/CarControl.msg"
