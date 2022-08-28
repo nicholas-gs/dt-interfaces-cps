@@ -103,6 +103,7 @@ set(msg_files
 )
 
 set(srv_files
+  "srv/BatteryInfo.srv"
   "srv/ChangePattern.srv"
   "srv/GetVariable.srv"
   "srv/IMUstatus.srv"
