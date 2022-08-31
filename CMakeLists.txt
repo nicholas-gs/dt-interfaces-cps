@@ -53,6 +53,7 @@ set(msg_files
   "msg/EncoderStamped.msg"
   "msg/EpisodeStart.msg"
   "msg/FSMState.msg"
+  "msg/HardwareStats.msg"
   "msg/IntersectionPoseImgDebug.msg"
   "msg/IntersectionPoseImg.msg"
   "msg/IntersectionPose.msg"
