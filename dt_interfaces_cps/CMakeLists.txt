@@ -29,7 +29,6 @@ set(msg_files
   "msg/AprilTagDetection.msg"
   "msg/AprilTagDetectionArray.msg"
   "msg/AprilTagsWithInfos.msg"
-  "msg/BatteryHealth.msg"
   "msg/BoolStamped.msg"
   "msg/ButtonEvent.msg"
   "msg/CarControl.msg"
@@ -53,7 +52,6 @@ set(msg_files
   "msg/EncoderStamped.msg"
   "msg/EpisodeStart.msg"
   "msg/FSMState.msg"
-  "msg/HardwareStats.msg"
   "msg/IntersectionPoseImgDebug.msg"
   "msg/IntersectionPoseImg.msg"
   "msg/IntersectionPose.msg"
@@ -104,7 +102,6 @@ set(msg_files
 )
 
 set(srv_files
-  "srv/BatteryInfo.srv"
   "srv/ChangePattern.srv"
   "srv/GetVariable.srv"
   "srv/IMUstatus.srv"
